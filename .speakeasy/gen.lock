@@ -3,10 +3,10 @@ id: c9c043a7-1fee-4e82-b7dc-c56755f94f05
 management:
   docChecksum: abbc3a8faac54f76013e5d509a8d11ec
   docVersion: 1.0.0
-  speakeasyVersion: 1.213.0
-  generationVersion: 2.283.1
-  releaseVersion: 0.14.2
-  configChecksum: 046017479f9126256ab098e54007017c
+  speakeasyVersion: 1.227.0
+  generationVersion: 2.291.0
+  releaseVersion: 0.14.3
+  configChecksum: 2bbaf247fd52215df250bbac2f5881b3
   repoURL: https://github.com/speakeasy-sdks/EarnUp-sample-sdk.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/EarnUp-sample-sdk
@@ -14,7 +14,7 @@ management:
 features:
   go:
     callbacks: 1.0.0
-    core: 3.4.4
+    core: 3.4.5
     devContainers: 2.90.0
     errors: 2.81.8
     examples: 2.81.3
